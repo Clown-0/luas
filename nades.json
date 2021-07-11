@@ -1,8 +1,9 @@
 {
     "name": "Clown's Nades",
     "description": "Clown's hvh grenades",
+    "update_timestamp": 1596507260,
     "locations": {
-        "de_cache": [
+        "de_cache": [   
             {
                 "name": [
                     "Window",
