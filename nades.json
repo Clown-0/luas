@@ -1,7 +1,9 @@
 
 {
-  "name": "Clown's Nades"
-  "description": "Clown's hvh nades"
+  "name": "Clown's Nades",
+  "description": "Clown's hvh nades",
+  "locations": 
+  {
   "de_cache": [
     {
       "name": ["Window", "FD B Site"],
@@ -1536,4 +1538,5 @@
   "workshop\/308490450\/xhair_v3": [
   
   ]
+  }
 }
