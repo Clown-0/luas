@@ -1,3 +1,10 @@
+"name": "Clown's Nades",
+	"description": "Clown's hvh grenades", // description, will be shown in menu
+	"update_timestamp": 1, // update timestamp, will be shown in menu
+	// optional, will overwrite the locally stored url and cause that url to be re-requested
+	// use this if you wanna change the URL without breaking everyone's configs
+	"url": "https://github.com/Clown-0/luas/edit/main/nades.json",
+"locations": {
 {
   "de_cache": [
     {
@@ -1554,4 +1561,5 @@
   "workshop\/308490450\/xhair_v3": [
   
   ]
+}
 }
